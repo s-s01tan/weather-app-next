@@ -12,7 +12,8 @@
     text-align: center;
     font-size: 32px;
     font-style: normal;
-    font-weight: 700;
+    font-weight: 700 !important;
+    font-family: 'Nunito Bold';
     line-height: 140%; /* 44.8px */
     span {
       color: #8fb2f5;
