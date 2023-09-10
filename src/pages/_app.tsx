@@ -13,8 +13,6 @@ export default function App({ Component, pageProps }: AppProps) {
         <title>Weather Application</title>
         <link rel="icon" href="/image/logo.svg"></link>
       </Head>
-      <Navbar />
-      <Search />
       <Component {...pageProps} />
     </>
   );
